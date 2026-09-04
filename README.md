@@ -228,6 +228,10 @@ This generates:
 
 ### Streamlit Application
 
+![Streamlit Application](screenshots/streamlit_app.png)
+
+### Streamlit Application
+
 The Streamlit application allows users to upload a fruit image and receive a predicted fruit condition with confidence.
 
 ## ⚠️ Limitations
